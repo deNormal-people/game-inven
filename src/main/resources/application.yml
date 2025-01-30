@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: game-inven
+  security:
+    user:
+      name: user
+      password: 1234
+  devtools:
+    livereload:
+      enabled: true
+    restart:
+      enabled: true
+
+
